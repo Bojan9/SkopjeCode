@@ -6,16 +6,16 @@ function Navigation() {
     return (
         <ul className="nav-ul">
             <li className="nav-li">
-                <a className="nav-link">Home</a>
+                <a href="#home" className="nav-link">Home</a>
             </li>
             <li className="nav-li">
-                <a className="nav-link">About</a>
+                <a href="#about" className="nav-link">About</a>
             </li>
             <li className="nav-li">
-                <a className="nav-link">Work</a>
+                <a href="#testimonial" className="nav-link">Clients</a>
             </li>
             <li className="nav-li">
-                <a className="nav-link">Contact</a>
+                <a href="#contact" className="nav-link">Contact</a>
             </li>
         </ul>
     )

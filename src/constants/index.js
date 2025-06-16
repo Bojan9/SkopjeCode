@@ -227,12 +227,12 @@ export const mySocials = [
   {
     name: "Linkedin",
     href: "https://www.linkedin.com/company/skopje-code",
-    icon: "/assets/socials/linkedIn.svg",
+    icon: "./assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
     href: "https://www.instagram.com/skopjecode/",
-    icon: "/assets/socials/instagram.svg",
+    icon: "./assets/socials/instagram.svg",
   },
 ];
 
